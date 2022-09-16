@@ -1,7 +1,7 @@
 
 :root {
   --white-color:                  #ffffff;
-  --primary-color:                #1A2DAB;
+  --primary-color:                #EE7447;
   --secondary-color:              #6d1d00;
   --section-bg-color:             #f9f9f9;
   --dark-color:                   #000000;
@@ -277,11 +277,11 @@ strong {
 }
 
 .custom-link {
-	background-color: var(--primary-color);
+	background-color: var(--dark-color);
 }
 
 .custom-link:hover {
-	background-color: var(--secondary-color);
+	background-color: var(--primary-color);
 }
 
 
