@@ -597,7 +597,10 @@ strong {
 .clients-item-height {
 	height: 120px;
 }
-
+.clients-item-height2 {
+  height: 250px;
+transform: scale(0.5);
+}
 .clients-image {
   display: block;
   max-width: 100px;
